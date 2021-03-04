@@ -11,7 +11,13 @@ How to start:
 - Once you copied the curl command, copy and paste it into your terminal
 - Done!
 
+# Todo:
+- Better DM support
+- Automatically send message
+
+
 # Requirements
 json, pyperclip, sys, termcolor, subprocess, and pynput
+**Must have either Windows or [curl](https://curl.se/) to use**
 
-just pip install all of those (pip install (package)
+just pip install all of those (`pip install (package`)
