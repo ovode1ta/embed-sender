@@ -12,11 +12,6 @@ How to start:
 - Done!
 
 # Requirements
-json
-pyperclip
-sys
-termcolor
-subprocess
-pynput
+json, pyperclip, sys, termcolor, subprocess, and pynput
 
 just pip install all of those (pip install (package)
