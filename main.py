@@ -1,9 +1,6 @@
 import json
 import pyperclip
-import sys
 from termcolor import colored, cprint
-import subprocess
-from pynput.keyboard import Key, Controller
 
 
 with open('config.json') as json_file:
