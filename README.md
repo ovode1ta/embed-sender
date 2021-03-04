@@ -17,7 +17,7 @@ How to start:
 
 
 # Requirements
-json, pyperclip, sys, termcolor, subprocess, and pynput
+json, pyperclip, and termcolor
 **Must have either Windows or [curl](https://curl.se/) to use**
 
 just pip install all of those (`pip install (package`)
