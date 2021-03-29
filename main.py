@@ -54,7 +54,7 @@ def main():
     try:
         os.exec(curlCommand)
     except:
-        logs.error("An error occured while trying to execute the command. Try again.
+        logs.error("An error occured while trying to execute the command. Try again.")
     
     main()
 
