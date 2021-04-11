@@ -52,7 +52,8 @@ def main():
     curlCommand = 'curl -X POST https://discord.com/api/v8/channels/' + channelid + '/messages -H "Authorization: ' + token + '" -H "Content-type: application/json" -d "{\\\"content\\\":\\\"\\\",\\\"embed\\\":{\\\"title\\\":\\\"' + title + '\\\", \\\"description\\\": \\\"' + description + '\\\"}}"'
     
     try:
-        os.exec(curlCommand)
+        Popen(curlCommand, shell=True).wait()
+
     except:
         logs.error("An error occured while trying to execute the command. Try again.")
     
