@@ -13,7 +13,7 @@ How to start:
 
 # Todo:
 - Better DM support
-- Automatically send message
+- ~~Automatically send message~~
 
 
 # Requirements
