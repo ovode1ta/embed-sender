@@ -1,3 +1,6 @@
+# PLEASE DONT USE THIS ITS HORRIBLY CODED
+## i literally made this during online school :dead:
+
 # Embed sender
 Send embeds in Discord without a selfbot!
 Note: This is completely allowed under Discord TOS **AS FAR AS I KNOW**. I will not be held accountable for anything that happens to your account.
